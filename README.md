@@ -42,10 +42,10 @@ The analysis uses the "StudentsPerformance.csv" dataset, which includes informat
 
 ## Contributors
 
-Ibrahim Isaac Bin Mohamad Amir Abdullah
-Alaa Bashir Abdullah Abu Sitta
-Siti Najwa Binti Rahman
-Muhammad Nur Ihsan bin Radzman
+- Ibrahim Isaac Bin Mohamad Amir Abdullah
+- Alaa Bashir Abdullah Abu Sitta
+- Siti Najwa Binti Rahman
+- Muhammad Nur Ihsan bin Radzman
 
 
 ## License
